@@ -1,1 +1,1 @@
-# Bitmap_to_vecor
+# Bitmap_to_vector
